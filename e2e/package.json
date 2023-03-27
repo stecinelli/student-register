@@ -1,0 +1,17 @@
+{
+  "name": "E2EForTodoReact",
+  "version": "1.0.0",
+  "description": "Initial e2e test",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "pre:test":"npm prefix ../server",
+    "open": "cypress open"
+  },
+  "keywords": [],
+  "author": "Tetris, Dashcat, Lurreponken & Scaro Deptla",
+  "license": "See LICENSE",
+  "devDependencies": {
+    "cypress": "^9.5.1"
+  }
+}
