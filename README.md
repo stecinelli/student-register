@@ -1,8 +1,8 @@
-# &lt;/salt&gt; Project
-
-## Salt Developers Register App
+## Developers Register App 
 
 The instructors have so much to do so we develop this app to help keeping track on all developers. 
+
+<img src="/Screenshot Web - Student Register.jpg" alt="Screenshot Web" title="Screenshot Web" width="35%" height="35%"/>
 
 ### Frontend
 
